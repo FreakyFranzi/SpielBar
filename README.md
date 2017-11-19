@@ -16,3 +16,6 @@ New idea to bring people together in real life while playing online games
 How to build apps with Android Studio and how to create a working UI which the user will like
 ## What's next for SpielBar
 To create a fully functional prototype based on our concept to show our idea and to try it out. 
+
+## About the data
+you can find here a technical description how the project would fully work and the .zip with the current version of the app as it was shown in the video
